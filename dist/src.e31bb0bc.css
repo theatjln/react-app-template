@@ -1,0 +1,21 @@
+@font-face {
+    font-family: AmiriRegular;
+    src: url(Amiri-Regular.484b6268.ttf);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: GraduateRegular;
+    src: url(Graduate-Regular.2b1909ff.ttf);
+}
+
+body {
+    text-align: center;
+    font-size: 20px;
+    padding: 2.5%;
+    font-family: 'AmiriRegular';
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'GraduateRegular';
+}
